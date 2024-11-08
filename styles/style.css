@@ -309,7 +309,6 @@
   height: 100vh;
   display: grid;
   justify-content: center;
-  /* align-items: center; */
   position: relative;
   padding: clamp(0.625rem, 0.2639rem + 1.5408vw, 1.25rem);
   min-height: 668px;
